@@ -35,8 +35,7 @@ export default class header extends PureComponent {
                     Link
                   </a>
                 </li>
-                <li className="nav-item dropdown">
-                </li>
+                <li className="nav-item dropdown"></li>
                 <li className="nav-item"></li>
               </ul>
               <form className="d-flex" role="search">
